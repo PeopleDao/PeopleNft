@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "dotenv": "^6.1.0",
+    "ethereumjs-wallet": "^0.6.2",
+    "truffle-plugin-verify": "^0.5.18"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@paulrberg/contracts": "^3.7.0",
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "truffle-contract-size": "^2.0.1",
+    "truffle-wallet-provider": "^0.0.5"
+  }
+}
